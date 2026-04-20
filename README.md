@@ -36,3 +36,4 @@
 - **Tailwind CSS:** For styling and responsive design.
 - **Chart.js:** For rendering charts and graphs to visualize sales and purchase statistics.
 - **JavaScript:** Used for frontend interactivity and dynamic content.
+test
